@@ -113,7 +113,7 @@ body{
 .second-line a{
     text-decoration: none;
     color: #202124;
-    padding: 15px;
+    padding-right: 15px;
 }
 .second-line a:hover{
     text-decoration: underline;
